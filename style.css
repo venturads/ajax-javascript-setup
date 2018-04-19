@@ -1,7 +1,9 @@
 body{
 	color: gray;
+	text-decoration: none;
 	}
 a{
+	color: gray;
 	text-decoration: none;
 }
 a:hover{
