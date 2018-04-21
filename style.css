@@ -9,3 +9,10 @@ a{
 a:hover{
 	color: black;
 }
+p:hover{
+	outline: 1px solid gray;
+	text-decoration: none;
+}
+p {
+	text-align: center;
+}
